@@ -3,7 +3,7 @@
 
 ## Introduction
 
-> This is a disassembly repository where I'll make reversing of BB code module of security called Warsal vreated by Gas Technology
+> This is a disassembly repository where I'll make reversing of BB code module of security called Warsal reated by Gas Technology
 
 ### Code Samples
 
