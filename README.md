@@ -8,6 +8,8 @@
 ### Code Samples
 
 **Example** of data collection
+
+
 Data1           dd ?    ; XREF: sub_140073D00+12F/w
 Data2           dw ?    ; XREF: sub_140073D00+136/w
 Data3           dw ?
